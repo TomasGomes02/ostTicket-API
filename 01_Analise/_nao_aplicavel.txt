@@ -1,0 +1,3 @@
+No contexto da análise, foi feita uma análise à arquitetura da versão 1.8 do osTicket utilizada para desenvolver este plugin.
+Não houve nenhum documento em específico para guardar esta informação.
+Para mais informações relativas a este tema consultar Capítulo 2 do relatório. 

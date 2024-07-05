@@ -1,0 +1,437 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a1340871f436b81e1f225567b6cce4e79"><param name="Name" value="__construct($id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#aefb74c34e044c1f8421292b3a51d9626"><param name="Name" value="add($vars, &amp;$errors)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a7f147c002b61a5f7b20905d992c0f4bd"><param name="Name" value="canCloseTickets()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a5b954442521dd0877a0ebdc5b10ed288"><param name="Name" value="canEditTickets()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a9594989e0de82f047387cfb6788bcc6e"><param name="Name" value="canReopenTickets()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a69ff51505a44a0d7bea72ce37e3c0f35"><param name="Name" value="canSuspendTickets()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a7ed2695ee0136154c2622d78872b9cfc"><param name="Name" value="getDeps()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a8945c4ee46ac7485211b0ed668a6dd41"><param name="Name" value="getIdByKeyPRJ($key)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#ad54fa8c8d20cce8998c4383d66a515ba"><param name="Name" value="getKeyIdForUser($staffId)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a9078704d5a337a183af00030a289f408"><param name="Name" value="getPiority()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#aac177f687dd6554a92d5976a817537cf"><param name="Name" value="getSLAS()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a5fccf01954c7ed4252025d019ab9bcb9"><param name="Name" value="getSources()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a68fe308124ae5337cd20479eca5f0885"><param name="Name" value="getStaff()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a927ae5e8400456e81c5e12b99b93d37d"><param name="Name" value="getStaffId()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a50c5a4c4b6c5628280b1b9e4468b589b"><param name="Name" value="getTeams()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#ae1a75ec4c13c06bebc8031b18338b787"><param name="Name" value="getTickets($deptId, $isAdmin)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#ac1e080de720e9843fa4b63b1f1066c7b"><param name="Name" value="getTopic()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#afb7655eb3d84dd7a6723f5c9df58610d"><param name="Name" value="getUsers()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a7160b09d9d37ede69811a66dc9e4f272"><param name="Name" value="load($id=0)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#ad5975ae18d6711b8ae056ca9b95b8cd5"><param name="Name" value="lookup($id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a7ee82c55d38789388e057bb5b0b5ad63"><param name="Name" value="lookupByKeyPRJ($key)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html"><param name="Name" value="ApiExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a2f7987f6a0dfe9c61ef97b76390db61a"><param name="Name" value="save($id, $vars, &amp;$errors)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_debugger.html"><param name="Name" value="Debugger"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html"><param name="Name" value="PluginConfigExtension"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html"><param name="Name" value="PluginConfigExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html#a1a49b8dded6e91a52e2fd07195d334da"><param name="Name" value="getOptions()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html"><param name="Name" value="PluginConfigExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html#ab8236bba5be275dcbf175a027db93fdb"><param name="Name" value="post_save(&amp;$config, &amp;$errors)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html"><param name="Name" value="PluginConfigExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html#a6578c5e7f94cfff3c2ec86225283ddde"><param name="Name" value="pre_save(&amp;$config, &amp;$errors)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html"><param name="Name" value="PluginConfigExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html#a89ea6fc1dd64c515da7c373792fd74ff"><param name="Name" value="translate()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a5c9b982e2b3e6b68c3b70acef21c728f"><param name="Name" value="addApiKeyRow($username)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a1220bc28aca374cd4510d925eb05bccc"><param name="Name" value="bootstrap()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a13bdffdd926f26b825ea57066334ff01"><param name="Name" value="delete()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a545341e59cc9a0dafc4e265d60d4b5d6"><param name="Name" value="disable()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a91e658a6e3fccc3028f2d71122bc4b8f"><param name="Name" value="enable()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a72ec5fdd6f058bccc522b852d7e1a245"><param name="Name" value="fileIsEmpty($filename)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a6b43ad2cde66fc76bed745d81f42c20e"><param name="Name" value="firstRun()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#aa56a17bc66c1081fad1cca3a488224c3"><param name="Name" value="isActive()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#ae307db6dc16402bf2aa34a69c4301ce2"><param name="Name" value="isMultiInstance()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#ae59eab884ff0c4603c114b96096e5678"><param name="Name" value="isTableEmpty($tableName)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a17d30a6549a2415c906e3d0a8c1e9f9f"><param name="Name" value="populateSavedData()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#aa778658c5bfdde993ffcfbe57bd93216"><param name="Name" value="pre_uninstall(&amp;$errors)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a2378fbdb7e32906355eb3a1c4bf6823b"><param name="Name" value="setDataBase()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#aaee863a95ba470d002d098b9bb99ab52"><param name="Name" value="storeData($tableNames, $sqlSaveData)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html"><param name="Name" value="PluginExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#ad95da2f9d9d957a93ccfa9693fd840f8"><param name="Name" value="uninstall(&amp;$errors)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_table_installer.html"><param name="Name" value="TableInstaller"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_table_installer.html"><param name="Name" value="TableInstaller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_table_installer.html#a5883de11d96bc387bfe884b48308c37e"><param name="Name" value="runJob($schemaFile)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#aaa54b7ea5f738c3e7fd9294a2aef024c"><param name="Name" value="close($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#aa56dd8040543e4df4170386e65883c46"><param name="Name" value="closeTicket($data, $key, $source=&#39;API&#39;)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a8f5561a6d2e41faa813460eff73cfea1"><param name="Name" value="create($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ade09913e79c08a1541c18d86bb8afa97"><param name="Name" value="createStaff($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a921277ee3d134b4e4e12a670bc20d00b"><param name="Name" value="createStaffMain($data, &amp;$msg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a56d6975a764982008eee51800e62e8ad"><param name="Name" value="delete($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#abc6fb0fdd15e89048e06affbfaebd957"><param name="Name" value="deleteTicket($data, $key)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#afe72a06cf3f4a9dfc82a9baeaf6846d6"><param name="Name" value="edit($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a51b1c2595edaaa8aca2f75c64ca26281"><param name="Name" value="editTicket($data, $key, &amp;$msg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ad40c766ec8aced9770fe6ae269a1e781"><param name="Name" value="getKey()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#af0ff75e4223f651447b559fe8ef8cfcf"><param name="Name" value="getUserApiKey($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a31d4e18fe058ef0c913c2f472081d77f"><param name="Name" value="isDatePermitted($dateString)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#aef08ae80389c87268ce95cdc86618031"><param name="Name" value="isValidDateTimeFormat($dateTimeString, $format=&#39;Y-m-d H:i:s&#39;)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ae115a220b72be27c2920479f23c1f027"><param name="Name" value="reopen($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a7a33b19ed85ef3fc3e41a2fb20f96424"><param name="Name" value="reopenTicket($data, $key, $source=&#39;API&#39;)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a5319b6efb259eba73011ac37883e6c65"><param name="Name" value="requestApiKey($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ac13748afe1a441c37547583e17298097"><param name="Name" value="requireApiKey()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#acb0befd4e36303974a4a4dfe54a8e738"><param name="Name" value="showDeps()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#adb8ca6687f62fea84ba1e4b654de5861"><param name="Name" value="showPriority()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a81feed4cf7ab3009b636d4e11509088d"><param name="Name" value="showSLAs()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#aa9cbbf31ae86bac36cdc23fa0248cc53"><param name="Name" value="showSources()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ace2189ee786e277075f0e942cca118d0"><param name="Name" value="showStaff()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#adba1626074484dee501194ba1ac49827"><param name="Name" value="showTeams()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ae5fb8b75054d54e9186652846b8993d2"><param name="Name" value="showTickets()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a816555dc1209ab4c3a8fb759070ee23d"><param name="Name" value="showTopic()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#af146fbfda871ba6ab4b99e76f076018c"><param name="Name" value="showUsers()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ae27f647230691f8e2d890607a956ab60"><param name="Name" value="simulatePost($ticket, $fieldString, $data)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a598431b4e6e39ee395f8fe2918108205"><param name="Name" value="suspend($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a94b1aba5dfac67fdbfcad0bfab04d4a3"><param name="Name" value="suspendTicket($data, $key, $status, &amp;$msg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#af046c5133b1515ff2e4d72a1b03b639b"><param name="Name" value="unSuspend($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a769e842106330eed5d40d514ad3eb7e4"><param name="Name" value="updateStaff($format)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html"><param name="Name" value="TicketApiControllerExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ad5bdac6188f4d673194c4802c6d032f2"><param name="Name" value="updateStaffMain($data, &amp;$msg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a496c0de9b8121dcf51839eb5c17a870b"><param name="Name" value="addComments($comments, $fields, $staffAssignee=null, $teamAssignee=null)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a1cdcd550a7d8e987128854981bbe0150"><param name="Name" value="alerts($note)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a80da31c7877caeec9ff8aa76c41701ab"><param name="Name" value="editFields($field, $newValue, $refer=false)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a6a0b7d5a94265d25b33a4a17b066ad6d"><param name="Name" value="getChanges($new, $old)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a5fccf01954c7ed4252025d019ab9bcb9"><param name="Name" value="getSources()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a5610be4c9461b07d8c18fe3a5f7b2775"><param name="Name" value="setDueDateToNotNull()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a513ef4054fc2c575676fb12ac6040bb4"><param name="Name" value="setFormEntryValueId($newValue)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#ad3a462260f934d35186691da8c4c713e"><param name="Name" value="setPriorityId($priorityId)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html"><param name="Name" value="TicketExtension"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a2d80557357c2737dfb96504228f6304c"><param name="Name" value="setSuspend($status, $comments=&#39;&#39;, &amp;$errors=array())"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a1340871f436b81e1f225567b6cce4e79"><param name="Name" value="__construct($id)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#aefb74c34e044c1f8421292b3a51d9626"><param name="Name" value="add($vars, &amp;$errors)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a5c9b982e2b3e6b68c3b70acef21c728f"><param name="Name" value="addApiKeyRow($username)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a496c0de9b8121dcf51839eb5c17a870b"><param name="Name" value="addComments($comments, $fields, $staffAssignee=null, $teamAssignee=null)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a1cdcd550a7d8e987128854981bbe0150"><param name="Name" value="alerts($note)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a1220bc28aca374cd4510d925eb05bccc"><param name="Name" value="bootstrap()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a7f147c002b61a5f7b20905d992c0f4bd"><param name="Name" value="canCloseTickets()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a5b954442521dd0877a0ebdc5b10ed288"><param name="Name" value="canEditTickets()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a9594989e0de82f047387cfb6788bcc6e"><param name="Name" value="canReopenTickets()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a69ff51505a44a0d7bea72ce37e3c0f35"><param name="Name" value="canSuspendTickets()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#aaa54b7ea5f738c3e7fd9294a2aef024c"><param name="Name" value="close($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#aa56dd8040543e4df4170386e65883c46"><param name="Name" value="closeTicket($data, $key, $source=&#39;API&#39;)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a8f5561a6d2e41faa813460eff73cfea1"><param name="Name" value="create($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ade09913e79c08a1541c18d86bb8afa97"><param name="Name" value="createStaff($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a921277ee3d134b4e4e12a670bc20d00b"><param name="Name" value="createStaffMain($data, &amp;$msg)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a56d6975a764982008eee51800e62e8ad"><param name="Name" value="delete($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a13bdffdd926f26b825ea57066334ff01"><param name="Name" value="delete()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#abc6fb0fdd15e89048e06affbfaebd957"><param name="Name" value="deleteTicket($data, $key)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a545341e59cc9a0dafc4e265d60d4b5d6"><param name="Name" value="disable()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#afe72a06cf3f4a9dfc82a9baeaf6846d6"><param name="Name" value="edit($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a80da31c7877caeec9ff8aa76c41701ab"><param name="Name" value="editFields($field, $newValue, $refer=false)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a51b1c2595edaaa8aca2f75c64ca26281"><param name="Name" value="editTicket($data, $key, &amp;$msg)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a91e658a6e3fccc3028f2d71122bc4b8f"><param name="Name" value="enable()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a72ec5fdd6f058bccc522b852d7e1a245"><param name="Name" value="fileIsEmpty($filename)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a6b43ad2cde66fc76bed745d81f42c20e"><param name="Name" value="firstRun()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a6a0b7d5a94265d25b33a4a17b066ad6d"><param name="Name" value="getChanges($new, $old)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a7ed2695ee0136154c2622d78872b9cfc"><param name="Name" value="getDeps()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a8945c4ee46ac7485211b0ed668a6dd41"><param name="Name" value="getIdByKeyPRJ($key)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ad40c766ec8aced9770fe6ae269a1e781"><param name="Name" value="getKey()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#ad54fa8c8d20cce8998c4383d66a515ba"><param name="Name" value="getKeyIdForUser($staffId)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html#a1a49b8dded6e91a52e2fd07195d334da"><param name="Name" value="getOptions()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a9078704d5a337a183af00030a289f408"><param name="Name" value="getPiority()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#aac177f687dd6554a92d5976a817537cf"><param name="Name" value="getSLAS()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a5fccf01954c7ed4252025d019ab9bcb9"><param name="Name" value="getSources()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a5fccf01954c7ed4252025d019ab9bcb9"><param name="Name" value="ApiExtension"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a5fccf01954c7ed4252025d019ab9bcb9"><param name="Name" value="getSources()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a5fccf01954c7ed4252025d019ab9bcb9"><param name="Name" value="TicketExtension"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a68fe308124ae5337cd20479eca5f0885"><param name="Name" value="getStaff()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a927ae5e8400456e81c5e12b99b93d37d"><param name="Name" value="getStaffId()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a50c5a4c4b6c5628280b1b9e4468b589b"><param name="Name" value="getTeams()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#ae1a75ec4c13c06bebc8031b18338b787"><param name="Name" value="getTickets($deptId, $isAdmin)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#ac1e080de720e9843fa4b63b1f1066c7b"><param name="Name" value="getTopic()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#af0ff75e4223f651447b559fe8ef8cfcf"><param name="Name" value="getUserApiKey($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#afb7655eb3d84dd7a6723f5c9df58610d"><param name="Name" value="getUsers()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#aa56a17bc66c1081fad1cca3a488224c3"><param name="Name" value="isActive()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a31d4e18fe058ef0c913c2f472081d77f"><param name="Name" value="isDatePermitted($dateString)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#ae307db6dc16402bf2aa34a69c4301ce2"><param name="Name" value="isMultiInstance()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#ae59eab884ff0c4603c114b96096e5678"><param name="Name" value="isTableEmpty($tableName)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#aef08ae80389c87268ce95cdc86618031"><param name="Name" value="isValidDateTimeFormat($dateTimeString, $format=&#39;Y-m-d H:i:s&#39;)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a7160b09d9d37ede69811a66dc9e4f272"><param name="Name" value="load($id=0)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#ad5975ae18d6711b8ae056ca9b95b8cd5"><param name="Name" value="lookup($id)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a7ee82c55d38789388e057bb5b0b5ad63"><param name="Name" value="lookupByKeyPRJ($key)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a17d30a6549a2415c906e3d0a8c1e9f9f"><param name="Name" value="populateSavedData()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html#ab8236bba5be275dcbf175a027db93fdb"><param name="Name" value="post_save(&amp;$config, &amp;$errors)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html#a6578c5e7f94cfff3c2ec86225283ddde"><param name="Name" value="pre_save(&amp;$config, &amp;$errors)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#aa778658c5bfdde993ffcfbe57bd93216"><param name="Name" value="pre_uninstall(&amp;$errors)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ae115a220b72be27c2920479f23c1f027"><param name="Name" value="reopen($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a7a33b19ed85ef3fc3e41a2fb20f96424"><param name="Name" value="reopenTicket($data, $key, $source=&#39;API&#39;)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a5319b6efb259eba73011ac37883e6c65"><param name="Name" value="requestApiKey($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ac13748afe1a441c37547583e17298097"><param name="Name" value="requireApiKey()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_table_installer.html#a5883de11d96bc387bfe884b48308c37e"><param name="Name" value="runJob($schemaFile)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_api_extension.html#a2f7987f6a0dfe9c61ef97b76390db61a"><param name="Name" value="save($id, $vars, &amp;$errors)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#a2378fbdb7e32906355eb3a1c4bf6823b"><param name="Name" value="setDataBase()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a5610be4c9461b07d8c18fe3a5f7b2775"><param name="Name" value="setDueDateToNotNull()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a513ef4054fc2c575676fb12ac6040bb4"><param name="Name" value="setFormEntryValueId($newValue)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#ad3a462260f934d35186691da8c4c713e"><param name="Name" value="setPriorityId($priorityId)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_extension.html#a2d80557357c2737dfb96504228f6304c"><param name="Name" value="setSuspend($status, $comments=&#39;&#39;, &amp;$errors=array())"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#acb0befd4e36303974a4a4dfe54a8e738"><param name="Name" value="showDeps()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#adb8ca6687f62fea84ba1e4b654de5861"><param name="Name" value="showPriority()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a81feed4cf7ab3009b636d4e11509088d"><param name="Name" value="showSLAs()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#aa9cbbf31ae86bac36cdc23fa0248cc53"><param name="Name" value="showSources()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ace2189ee786e277075f0e942cca118d0"><param name="Name" value="showStaff()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#adba1626074484dee501194ba1ac49827"><param name="Name" value="showTeams()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ae5fb8b75054d54e9186652846b8993d2"><param name="Name" value="showTickets()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a816555dc1209ab4c3a8fb759070ee23d"><param name="Name" value="showTopic()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#af146fbfda871ba6ab4b99e76f076018c"><param name="Name" value="showUsers()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ae27f647230691f8e2d890607a956ab60"><param name="Name" value="simulatePost($ticket, $fieldString, $data)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#aaee863a95ba470d002d098b9bb99ab52"><param name="Name" value="storeData($tableNames, $sqlSaveData)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a598431b4e6e39ee395f8fe2918108205"><param name="Name" value="suspend($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a94b1aba5dfac67fdbfcad0bfab04d4a3"><param name="Name" value="suspendTicket($data, $key, $status, &amp;$msg)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_config_extension.html#a89ea6fc1dd64c515da7c373792fd74ff"><param name="Name" value="translate()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#af046c5133b1515ff2e4d72a1b03b639b"><param name="Name" value="unSuspend($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_plugin_extension.html#ad95da2f9d9d957a93ccfa9693fd840f8"><param name="Name" value="uninstall(&amp;$errors)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#a769e842106330eed5d40d514ad3eb7e4"><param name="Name" value="updateStaff($format)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ticket_api_controller_extension.html#ad5bdac6188f4d673194c4802c6d032f2"><param name="Name" value="updateStaffMain($data, &amp;$msg)"></OBJECT>
+</UL>
+</BODY>
+</HTML>

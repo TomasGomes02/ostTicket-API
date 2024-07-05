@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['getchanges_0',['getChanges',['../class_ticket_extension.html#a6a0b7d5a94265d25b33a4a17b066ad6d',1,'TicketExtension']]],
+  ['getdeps_1',['getDeps',['../class_api_extension.html#a7ed2695ee0136154c2622d78872b9cfc',1,'ApiExtension']]],
+  ['getidbykeyprj_2',['getIdByKeyPRJ',['../class_api_extension.html#a8945c4ee46ac7485211b0ed668a6dd41',1,'ApiExtension']]],
+  ['getkey_3',['getKey',['../class_ticket_api_controller_extension.html#ad40c766ec8aced9770fe6ae269a1e781',1,'TicketApiControllerExtension']]],
+  ['getkeyidforuser_4',['getKeyIdForUser',['../class_api_extension.html#ad54fa8c8d20cce8998c4383d66a515ba',1,'ApiExtension']]],
+  ['getoptions_5',['getOptions',['../class_plugin_config_extension.html#a1a49b8dded6e91a52e2fd07195d334da',1,'PluginConfigExtension']]],
+  ['getpiority_6',['getPiority',['../class_api_extension.html#a9078704d5a337a183af00030a289f408',1,'ApiExtension']]],
+  ['getslas_7',['getSLAS',['../class_api_extension.html#aac177f687dd6554a92d5976a817537cf',1,'ApiExtension']]],
+  ['getsources_8',['getSources',['../class_api_extension.html#a5fccf01954c7ed4252025d019ab9bcb9',1,'ApiExtension\getSources()'],['../class_ticket_extension.html#a5fccf01954c7ed4252025d019ab9bcb9',1,'TicketExtension\getSources()']]],
+  ['getstaff_9',['getStaff',['../class_api_extension.html#a68fe308124ae5337cd20479eca5f0885',1,'ApiExtension']]],
+  ['getstaffid_10',['getStaffId',['../class_api_extension.html#a927ae5e8400456e81c5e12b99b93d37d',1,'ApiExtension']]],
+  ['getteams_11',['getTeams',['../class_api_extension.html#a50c5a4c4b6c5628280b1b9e4468b589b',1,'ApiExtension']]],
+  ['gettickets_12',['getTickets',['../class_api_extension.html#ae1a75ec4c13c06bebc8031b18338b787',1,'ApiExtension']]],
+  ['gettopic_13',['getTopic',['../class_api_extension.html#ac1e080de720e9843fa4b63b1f1066c7b',1,'ApiExtension']]],
+  ['getuserapikey_14',['getUserApiKey',['../class_ticket_api_controller_extension.html#af0ff75e4223f651447b559fe8ef8cfcf',1,'TicketApiControllerExtension']]],
+  ['getusers_15',['getUsers',['../class_api_extension.html#afb7655eb3d84dd7a6723f5c9df58610d',1,'ApiExtension']]]
+];

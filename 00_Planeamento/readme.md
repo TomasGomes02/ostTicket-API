@@ -1,0 +1,1 @@
+Esta diretoria contém o diagrama de GANT utilizado para a gestão de tempo e planeamento de todo o processo envolvido para a criação deste projeto, desde o estudo da arquitetura, à implementação da API e os respetivos testes.
